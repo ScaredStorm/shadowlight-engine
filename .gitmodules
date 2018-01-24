@@ -4,3 +4,12 @@
 [submodule "dependencies/SDL"]
 	path = dependencies/SDL
 	url = git@github.com:ScaredStorm/SDL-mirror.git
+[submodule "dependencies/rapidjson"]
+	path = dependencies/rapidjson
+	url = git@github.com:Tencent/rapidjson.git
+[submodule "dependencies/glew"]
+	path = dependencies/glew
+	url = git@github.com:nigels-com/glew.git
+[submodule "dependencies/lua"]
+	path = dependencies/lua
+	url = git@github.com:lua/lua.git
