@@ -1,3 +1,6 @@
 [submodule "dependencies/glm"]
 	path = dependencies/glm
 	url = git@github.com:ScaredStorm/glm.git
+[submodule "dependencies/SDL"]
+	path = dependencies/SDL
+	url = git@github.com:ScaredStorm/SDL-mirror.git
